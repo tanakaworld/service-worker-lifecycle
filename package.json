@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "name": "service-worker-lifecycle",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "http-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tanakaworld/service-worker-lifecycle.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanakaworld/service-worker-lifecycle/issues"
+  },
+  "homepage": "https://github.com/tanakaworld/service-worker-lifecycle#readme"
+}
